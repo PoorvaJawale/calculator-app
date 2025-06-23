@@ -114,11 +114,9 @@ If the expression is invalid or empty:
 
 5. How the template (index.html) responds
 In index.html, you’ve written conditional code like:<br>
-   {% if error %}
-  <!-- Show red error alert -->
-  {% else %}
-  <!-- Show green success alert with answer -->
-  {% endif %} 
+  {% if error %}<br>
+  {% else %}<br>
+  {% endif %} <br>
 And the input field retains its value using:
    <input type="search" name="query" value="{{ q }}">
 This keeps the user experience smooth by:

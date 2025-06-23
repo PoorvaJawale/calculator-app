@@ -113,7 +113,7 @@ If the expression is invalid or empty:
   A red error alert is displayed.
 
 5. How the template (index.html) responds
-In index.html, you’ve written conditional code like:
+In index.html, you’ve written conditional code like:<br>
    {% if error %}
   <!-- Show red error alert -->
   {% else %}

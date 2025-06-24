@@ -149,10 +149,10 @@ index.html displays either:<br>
 This app uses Python's built-in eval() function for simplicity. It is not safe for production without proper input sanitization. Only use this for learning/demo purposes.
 
 ## Concepts Used
-Django Views & URL Routing
-HTML templating with context
-Bootstrap 4 for frontend styling
-Static file management (CSS, JS, Images)
-GET method form submission and result rendering
+Django Views & URL Routing<br>
+HTML templating with context<br>
+Bootstrap 4 for frontend styling<br>
+Static file management (CSS, JS, Images)<br>
+GET method form submission and result rendering<br>
 
 For any queries, feedback, or collaboration opportunities, feel free to reach out to me at **poorvakjawale@gmail.com**.
